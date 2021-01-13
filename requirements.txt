@@ -2,3 +2,4 @@ tweepy==3.10.0
 google-cloud-language==2.0.0
 fastapi==0.62.0
 uvicorn==0.12.3
+RISE==5.7.1
